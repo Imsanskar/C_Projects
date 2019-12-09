@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1551600641 source:c:\users\dell\desktop\quiz project\untitled7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1551609454 source:c:\users\dell\desktop\project c-fill me up\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
